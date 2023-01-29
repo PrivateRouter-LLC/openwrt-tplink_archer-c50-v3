@@ -20,7 +20,7 @@ cd openwrt-*/
 # clean previous images
 make clean
 
-make image  PROFILE="tplink_archer-c50-v3" \
+make image  PROFILE="tplink_archer-c50" \
            PACKAGES="luci dnsmasq" \
            FILES="${BASEDIR}/files/" \
            BIN_DIR="$OUTPUT"
