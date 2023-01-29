@@ -16,3 +16,7 @@ TFTP window start 	Must power on pressing the RESET button
 TFTP client required IP address 	192.168.0.x 
 
 Then proceed to flash the sysupgrade image in the release section:
+
+https://github.com/PrivateRouter-LLC/openwrt-tplink_archer-c50-v3/releases/download/OpenWRT-PrivateRouter-b7e28e/openwrt-22.03.0-ramips-mt76x8-tplink_archer-c50-v3-squashfs-sysupgrade.bin
+
+Make sure internet is connected when booting up
